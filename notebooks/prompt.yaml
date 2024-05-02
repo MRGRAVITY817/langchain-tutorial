@@ -1,0 +1,3 @@
+_type: "prompt"
+template: "What are the ingredients in {food}?"
+input_variables: ["food"]
